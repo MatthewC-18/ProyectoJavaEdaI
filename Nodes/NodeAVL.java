@@ -1,4 +1,4 @@
-package trees.nodes;
+package Nodes;
 
 public class NodeAVL {
     public int key;

@@ -1,6 +1,6 @@
 package trees;
 
-import trees.nodes.NodeB;
+import Nodes.NodeB;
 import java.util.*;
 
 public class BTree implements ITree {

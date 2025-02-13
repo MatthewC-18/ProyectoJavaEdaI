@@ -1,4 +1,4 @@
-package trees.nodes;
+package Nodes;
 
 import java.util.Arrays;
 

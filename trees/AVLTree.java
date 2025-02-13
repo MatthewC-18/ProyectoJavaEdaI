@@ -1,6 +1,6 @@
 package trees;
 
-import trees.nodes.NodeAVL;
+import Nodes.NodeAVL;
 import java.util.*;
 
 public class AVLTree implements ITree {
